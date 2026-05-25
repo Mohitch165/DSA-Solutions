@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Mohitch165/DSA-Solutions/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/Mohitch165/DSA-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Mohitch165/DSA-Solutions/tree/master/0344-reverse-string) |
+| [0844-backspace-string-compare](https://github.com/Mohitch165/DSA-Solutions/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mohitch165/DSA-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -29,8 +30,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Mohitch165/DSA-Solutions/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Mohitch165/DSA-Solutions/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Mohitch165/DSA-Solutions/tree/master/0344-reverse-string) |
+| [0844-backspace-string-compare](https://github.com/Mohitch165/DSA-Solutions/tree/master/0844-backspace-string-compare) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Mohitch165/DSA-Solutions/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Mohitch165/DSA-Solutions/tree/master/0844-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Mohitch165/DSA-Solutions/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
