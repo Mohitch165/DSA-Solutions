@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Mohitch165/DSA-Solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mohitch165/DSA-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mohitch165/DSA-Solutions/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Mohitch165/DSA-Solutions/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohitch165/DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Mohitch165/DSA-Solutions/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/Mohitch165/DSA-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mohitch165/DSA-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Mohitch165/DSA-Solutions/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Mohitch165/DSA-Solutions/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohitch165/DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Mohitch165/DSA-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Mohitch165/DSA-Solutions/tree/master/0344-reverse-string) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Mohitch165/DSA-Solutions/tree/master/0042-trapping-rain-water) |
 | [0844-backspace-string-compare](https://github.com/Mohitch165/DSA-Solutions/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
@@ -54,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Mohitch165/DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Mohitch165/DSA-Solutions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Mohitch165/DSA-Solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
